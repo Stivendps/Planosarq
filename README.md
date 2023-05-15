@@ -28,3 +28,8 @@ Cada trabajador ingresa su nombre y digita la cantidad de planos desarrollados e
    ((semana1,semana2,semana3,semana4)/semanas trabajadas)/cantidad trabajadores)
  4. se demuestra el promedio de planos de los trabajadores.
 
+## Diagrama de flujo:
+
+![image](https://github.com/Stivendps/Planosarq/assets/121703665/2df65dd2-0fd3-4754-95b1-94975608bf27)
+
+## Aproximacion seudocodigo:
