@@ -33,5 +33,7 @@ Cada trabajador ingresa su nombre y digita la cantidad de planos desarrollados e
 ![image](https://github.com/Stivendps/Planosarq/assets/121703665/2df65dd2-0fd3-4754-95b1-94975608bf27)
 
 ## Aproximacion seudocodigo:
-![image](https://github.com/Stivendps/Planosarq/assets/121703665/a30c0d9f-627f-4505-ae23-d785c37f652e)
+
+![image](https://github.com/Stivendps/Planosarq/assets/121703665/4bfeb0b6-1868-4e32-93dc-85f87e2159a1)
+
 
