@@ -36,4 +36,17 @@ Cada trabajador ingresa su nombre y digita la cantidad de planos desarrollados e
 
 ![image](https://github.com/Stivendps/Planosarq/assets/121703665/4bfeb0b6-1868-4e32-93dc-85f87e2159a1)
 
+## CODIGO EN JAVA
+se crea una plantilla objeto:
+![image](https://github.com/Stivendps/Planosarq/assets/121703665/cd60ec2e-619d-47cf-89b0-1374a45cd0d0)
+![image](https://github.com/Stivendps/Planosarq/assets/121703665/284c5e7e-b6d3-4e0a-8a43-5a72d9b3d461)
+
+resultado final
+![image](https://github.com/Stivendps/Planosarq/assets/121703665/fc1dcd76-56e6-4fde-a357-ba992fe61ade)
+
+
+
+![image](https://github.com/Stivendps/Planosarq/assets/121703665/3df98e36-9647-42f7-a88d-8c7d671037d8)
+
+
 
