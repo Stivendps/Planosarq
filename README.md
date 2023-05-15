@@ -33,3 +33,42 @@ Cada trabajador ingresa su nombre y digita la cantidad de planos desarrollados e
 ![image](https://github.com/Stivendps/Planosarq/assets/121703665/2df65dd2-0fd3-4754-95b1-94975608bf27)
 
 ## Aproximacion seudocodigo:
+
+inicio
+    Caracteres: identificaciones [50], nombres [50], area [50]
+    Real: semanauno [50], semanados [50], semanatres [50], semanacuatro [50]
+    Caracteres: identificacion, nombre, area
+    Entero: numeroTrabajadores, i
+    Real: semana1, semana2, semana3, semana4, promedio <- 0
+    Imprimir: ‘Digite el número de Trabajadores:’
+    Asignar: numeroTrabajadores
+    Para i=0 hasta numeroTrabajadores - 1, 1
+    Imprimir: ‘Digite la identificación del estudiante:’
+    Asignar: identificacion
+    Imprimir: ‘Digite el nombre del trabajador:’
+    Asignar: nombre
+    Imprimir: ‘Digite el area del trabajador:’
+    Asignar:  area
+    Imprimir: ‘Digite la semana 1 del trabajador:’
+    Asignar: semana1
+    Imprimir: ‘Digite la semana 2 del trabajador:’
+    Asignar: semana2
+    Imprimir: ‘Digite la semana 3 del trabajador:’
+    Asignar: semana3
+    Imprimir: ‘Digite la semana 4 del trabajador:’
+    Asignar: semana4
+    identificaciones[i] <- identificacion
+    nombres [i] <- nombre
+    area [i] <- area
+    semanauno[i] <- semana1
+    semanados[i] <- semana2
+    semanatres[i] <- semana3
+    semanacuatro[i] <- semana4
+    finPara
+    Para i=0 hasta numeroTrabajadores -1, 1
+    promedio <-
+    promedio +((semanauno[i]+semanados[i]+semanatres[i])/3)numeroTrabajadores
+    finPara
+    Imprimir: ‘El promedio es:’ + promedio
+Fin
+
