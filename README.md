@@ -11,10 +11,10 @@ cada trabajador se debe registrar con su nombre, el área y cantidad de planos e
 #### respuesta:
 
 Cada trabajador ingresa su nombre y digita la cantidad de planos desarrollados en la semana, el programa deve regresar el promedio de planos del area y el promedio de todos los trabajadores.
-
+*********************
 ## Plantilla historia de usuarios:
 ![image](https://github.com/Stivendps/Planosarq/assets/121703665/73147a07-fd94-41c7-aa65-634db6132c35)
-
+*********************
 ## Aproximacion de caso de uso:
 ![4a62fcc7-dc4d-484d-aacb-278f5a46edb7](https://github.com/Stivendps/Planosarq/assets/121703665/58116ea2-9183-43ab-89d8-8ee96941f056)
 
@@ -27,11 +27,11 @@ Cada trabajador ingresa su nombre y digita la cantidad de planos desarrollados e
  3. se calcula el promedio de planos terminados a partir de :
    ((semana1,semana2,semana3,semana4)/semanas trabajadas)/cantidad trabajadores)
  4. se demuestra el promedio de planos de los trabajadores.
-
+*********************
 ## Diagrama de flujo:
 
 ![image](https://github.com/Stivendps/Planosarq/assets/121703665/2df65dd2-0fd3-4754-95b1-94975608bf27)
-
+*********************
 ## Aproximacion seudocodigo:
 
 inicio
@@ -72,9 +72,8 @@ inicio
     promedio +((semanauno[i] + semanados[i] + semanatres[i] + semanacuatro[i]/4)numerotrabajadores)  
     finpara  
     imprimir "el promedio de planos hechos por el trabajador es de : "+ promedio  
-
-![image](https://github.com/Stivendps/Planosarq/assets/121703665/4bfeb0b6-1868-4e32-93dc-85f87e2159a1)
-
+fin
+*********************
 ## CODIGO EN JAVA
 codigo de plantilla objeto:
 ![image](https://github.com/Stivendps/Planosarq/assets/121703665/cd60ec2e-619d-47cf-89b0-1374a45cd0d0)
