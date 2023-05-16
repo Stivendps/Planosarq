@@ -34,6 +34,45 @@ Cada trabajador ingresa su nombre y digita la cantidad de planos desarrollados e
 
 ## Aproximacion seudocodigo:
 
+inicio
+    caracteres: identificaciones [50], nombres[50], area [50]  
+    real: semanauno [50], semanados [50], semanatres [50], semanacuatro [50]  
+    caracteres: identificacion, Nombre, Area  
+    Entero: Numero de trabajadores, i  
+    Real: semana1,semana2, semana3,semana4, periodo <- 0  
+    Imprimir: "digite el numero de trabajadores: "  
+    asignar: numerotrabajadores  
+    para i=0 hasta numero detrabajadores -1, 1  
+    imprimir: "digite la identificacion del estudiante"  
+    asignar: identificacion
+    imprimir: "digite el nombre del trabajador"  
+    asignar : nombre  
+    imprimir: "digite el nombre del trabajador"  
+    asignar : "nombre"  
+    imprimir: "digite el area del trabajador"  
+    asignar: "area"  
+    imprimir: "digite planos hehcos en la semana 1: "  
+    asignar: semana1  
+    imprimir: "digite planos hehcos en la semana 2: "  
+    asignar: semana2  
+    imprimir: "digite planos hehcos en la semana 3: "  
+    asignar: semana3  
+    imprimir: "digite planos hehcos en la semana 4: "  
+    asignar: semana4  
+    identificaciones[i]<- identificacion  
+    nombres [i] <- nombre  
+    area [i]<- area  
+    semanauno[i]<- semana1  
+    semanados[i]<- semana2  
+    semanatres[i]<- semana3  
+    semanacuatro[i]<- semana4
+    finpara  
+    para i=0 hasta numerotrabajadores -1, 1  
+    promedio <-  
+    promedio +((semanauno[i] + semanados[i] + semanatres[i] + semanacuatro[i]/4)numerotrabajadores)  
+    finpara  
+    imprimir "el promedio de planos hechos por el trabajador es de : "+ promedio  
+
 ![image](https://github.com/Stivendps/Planosarq/assets/121703665/4bfeb0b6-1868-4e32-93dc-85f87e2159a1)
 
 ## CODIGO EN JAVA
